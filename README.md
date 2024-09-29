@@ -6,7 +6,7 @@
 
 - 📫 Feel free to reach out via email at **rajeepgadal@gmail.com**
 
-- ⚡ Fun fact **Whether coding or writing poems, I’m always chasing that perfect balance of logic and emotion.**
+- ⚡ Fun fact: **Whether coding or writing poems, I’m always chasing that perfect balance of logic and emotion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
