@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajeep Gadal</h1>
+<h1 align="center">Hi 👋 I'm Rajeep Gadal</h1>
 <h3 align="center">Creating, learning, and growing through every line of code. A passionate frontend developer from Nepal, driven by curiosity and creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
