@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rajeep Gadal</h1>
 
  ### About Me:
-🚀 **Frontend Developer** | **Tech Enthusiast**<br>🌍 **Currently exploring:** FullStack Development, AI and UI/UX <br>🛠️ **Favorite tools:** React, NextJS, TailwindCSS, Postgres, NodeJS<br>📩 **Email:** rajeepgadal@gmail.com  
+🚀 **Frontend Developer** | **Tech Enthusiast**<br>🌍 **Currently exploring:** FullStack Development, AI and UI/UX <br>🛠️ **Favorite tools:** React, NextJS, TailwindCSS, NodeJS<br>📩 **Email:** rajeepgadal@gmail.com  
 
 
  ### 🌐 Socials:
