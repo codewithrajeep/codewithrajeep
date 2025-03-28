@@ -1,7 +1,7 @@
 <h1>Hi👋 I'm Rajeep Gadal</h1>
 
  ### About Me:
-🚀 **Backend Developer** | **Tech Enthusiast**<br>🌍 **Currently exploring:** FullStack Development, AI and UI/UX <br>🛠️ **Favorite tools:** React, NextJS, TailwindCSS, NodeJS<br>📩 **Email:** rajeepgadal@gmail.com  
+🚀 **Working as a Backend Developer Intern at Mahuri Ventures** <br>🌍 **Currently exploring:** FullStack Development, AI and UI/UX <br>🛠️ **Favorite tools:** React, NextJS, TailwindCSS, NodeJS<br>📩 **Email:** rajeepgadal@gmail.com  
 
 
  ### 🌐 Socials:
