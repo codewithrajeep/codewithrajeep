@@ -13,6 +13,14 @@
 
 ###
 
+### 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=codewithrajeep&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrajeep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+###
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=codewithrajeep.codewithrajeep&left_text=Profile%20View"  />
 
 ###
