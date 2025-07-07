@@ -2,6 +2,8 @@
 
 I'm Rajeep, a Backend Developer Intern at **Mahuri Ventures** in Nepal
 
+<!-- If you win, you live. If you lose, you die. If you don’t fight, you can’t win. -->
+
  #### About Me:
  🌍 **Currently exploring:** FullStack Development, AI and UI/UX <br>🛠️ **Favorite tools:** React, NextJS, TailwindCSS, NodeJS<br>📩 **Email:** rajeepgadal@gmail.com  
 
