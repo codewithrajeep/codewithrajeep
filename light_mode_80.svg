@@ -1,53 +1,144 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1029" height="440" viewBox="0 0 1029 440" role="img" aria-label="ASCII GitHub profile card for codewithrajeep">
-  <rect x="0.5" y="0.5" width="1028" height="439" rx="8" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="28" y="34.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="44.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="53.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="63.400000000000006" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="73" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="82.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="92.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@p-^--/X$o@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="101.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@| :  .|xoo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="111.39999999999999" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@|;$y_)!jxo@@$p/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="121" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@( `    igo@|o(i@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="130.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@|._|   |o@@@| \@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="140.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@|..  :|xo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="149.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@g_::jugo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="159.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@L_-\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="169" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@4oooowo@\\jo@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="178.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U$ /{xv--\ :j|@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
-  <text x="28" y="188.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@QUwvjj2   !      :$@@@@oooo@@@@@@@@@oooo@@@@@@@@@@@@@</text>
-  <text x="28" y="197.79999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@5oxjjjjjji  -`_g@|  ' xxxU$xxxxxxoooo@@@oooo@@@@@@@@@@@@@</text>
-  <text x="28" y="207.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@pxjjjjjjjjj|    |@~    |oxxjj@xjjxoooo@@@@oooo@@@@@@@@@@@@@</text>
-  <text x="28" y="217" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@pxjjjjjjjjq|     ||   \|oxjj|pxoxo@@@g@@@@oooo@@@@@@@@@@@@@</text>
-  <text x="28" y="226.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@pqjjjjjj:j|j     ||  \poxjj|@ooooo@@o@@@@@oooo@@@@@@@@@@@@@</text>
-  <text x="28" y="236.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@xq|jjjjj:||:     |  \ocoxjj|@o@@oo@@@@@@@@@ooo@@@@@@@@@@@@@</text>
-  <text x="28" y="245.79999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@@xxpjjjxj:qjj|    | \\oioxj|@@@@@oo@@@@@@@@@ooo@@@@@@@@@@@@@</text>
-  <text x="28" y="255.39999999999998" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@|xxpjxioxj|jji/   |\ooxqojj@@@@@@@@@@@@@@@@@ooo@@@@@@@@@@@@@</text>
-  <text x="28" y="265" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@|xxpxxqoxupjjjx.  gooopo|j|@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
-  <text x="28" y="274.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@oxqoxx|@oq|jjjju.\@@@oIoxu@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
-  <text x="28" y="284.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@@oxo@xxaoog|jjjjq@@mwxgxox|@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
-  <text x="28" y="293.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@px|@@pxjoo@|jjjjooogo@@oxu@@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
-  <text x="28" y="303.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@|u@@@|xjxg@|jjjjoxoooo$xx|@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
-  <text x="28" y="313" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@g@@@@oyqq@|jjjjuoooooogpx@@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
-  <text x="28" y="322.59999999999997" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@Qo@@@@@xo@@|jjjj|ooxooo@gg@@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
-  <text x="28" y="332.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@ggxa@@@g@@@|jjjjuxwxxo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="341.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@xjug@@g@@@@|jjjxqxxxo@@@@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="351.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@|jamwoq@@@@oxjxxooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="361" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@|xjgpo@@@pjjvjxxooooo@@@@@@@@@@@@@@@@@@@@ooo@@@@@@@@@@@@@@@@@@</text>
-  <text x="28" y="370.59999999999997" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@|xaggp@@@xjjjxxxoooo@@@@@@@@@@@@@@@@@@@@ooo@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="380.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@goooo@@|jjxxxxx@@@@@@@@@@@@@@@@@@@@@@@oo@@@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="389.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@pwxsgo@pxjxxxoxx@@@@@@@@@@@@@@@@@@@@@@@ooo@@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="399.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@xjuo@@xxxxxxxxxooo@@@@@@@@@@@@@@@@@@oo@@@@@@@@@o@@@@@@@@@@@@@</text>
-  <text x="28" y="409" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">@@@@@@@@@@@@@@@@@@@oxq@mxxxxxxxxxxg@@@@@@@@@@@@@@@@@@@xoo@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="444" y="115" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> codewithrajeep@github </tspan><tspan fill="#d0d7de">──────────────────────────────────</tspan></text>
-  <text x="444" y="135" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> 4 years, 3 months, 21 days</tspan></text>
-  <text x="444" y="155" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Location: </tspan><tspan fill="#8c959f">.......................................</tspan><tspan fill="#24292f"> Nepal</tspan></text>
-  <text x="444" y="175" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Languages: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> TypeScript, Rust, Shell</tspan></text>
-  <text x="444" y="215" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Contact </tspan><tspan fill="#d0d7de">────────────────────────────────────────────────</tspan></text>
-  <text x="444" y="235" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Twitter: </tspan><tspan fill="#8c959f">..............................</tspan><tspan fill="#24292f"> @codewithrajeep</tspan></text>
-  <text x="444" y="255" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">.....................</tspan><tspan fill="#24292f"> github.com/codewithrajeep</tspan></text>
-  <text x="444" y="295" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> GitHub Stats </tspan><tspan fill="#d0d7de">───────────────────────────────────────────</tspan></text>
-  <text x="444" y="315" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 9</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Stars: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#0550ae"> 11</tspan></text>
-  <text x="444" y="335" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">...........</tspan><tspan fill="#0550ae"> 510</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">..........</tspan><tspan fill="#0550ae"> 26</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1029" height="440" viewBox="0 0 1029 440" role="img"
+  aria-label="ASCII GitHub profile card for codewithrajeep">
+  <rect x="0.5" y="0.5" width="1028" height="439" rx="8" fill="#ffffff" stroke="#d0d7de" />
+  <text x="28" y="34.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="44.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="53.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="63.400000000000006" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="73" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="82.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="92.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@p-^--/X$o@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="101.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@| :  .|xoo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="111.39999999999999" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@|;$y_)!jxo@@$p/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="121" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@( `    igo@|o(i@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="130.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@|._|   |o@@@| \@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="140.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@|..  :|xo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="149.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@g_::jugo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="159.4" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@L_-\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="169" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@4oooowo@\\jo@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="178.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@U$ /{xv--\ :j|@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
+  <text x="28" y="188.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@QUwvjj2   !      :$@@@@oooo@@@@@@@@@oooo@@@@@@@@@@@@@</text>
+  <text x="28" y="197.79999999999998" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@@@5oxjjjjjji  -`_g@|  ' xxxU$xxxxxxoooo@@@oooo@@@@@@@@@@@@@</text>
+  <text x="28" y="207.4" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@pxjjjjjjjjj|    |@~    |oxxjj@xjjxoooo@@@@oooo@@@@@@@@@@@@@</text>
+  <text x="28" y="217" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@pxjjjjjjjjq|     ||   \|oxjj|pxoxo@@@g@@@@oooo@@@@@@@@@@@@@</text>
+  <text x="28" y="226.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@pqjjjjjj:j|j     ||  \poxjj|@ooooo@@o@@@@@oooo@@@@@@@@@@@@@</text>
+  <text x="28" y="236.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@xq|jjjjj:||:     |  \ocoxjj|@o@@oo@@@@@@@@@ooo@@@@@@@@@@@@@</text>
+  <text x="28" y="245.79999999999998" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@@xxpjjjxj:qjj|    | \\oioxj|@@@@@oo@@@@@@@@@ooo@@@@@@@@@@@@@</text>
+  <text x="28" y="255.39999999999998" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@|xxpjxioxj|jji/   |\ooxqojj@@@@@@@@@@@@@@@@@ooo@@@@@@@@@@@@@</text>
+  <text x="28" y="265" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@|xxpxxqoxupjjjx.  gooopo|j|@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
+  <text x="28" y="274.6" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@oxqoxx|@oq|jjjju.\@@@oIoxu@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
+  <text x="28" y="284.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@@oxo@xxaoog|jjjjq@@mwxgxox|@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
+  <text x="28" y="293.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@px|@@pxjoo@|jjjjooogo@@oxu@@@@@@@@@@@@@@@@@@@@oo@@@@@@@@@@@@@</text>
+  <text x="28" y="303.4" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@|u@@@|xjxg@|jjjjoxoooo$xx|@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
+  <text x="28" y="313" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@g@@@@oyqq@|jjjjuoooooogpx@@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
+  <text x="28" y="322.59999999999997" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@Qo@@@@@xo@@|jjjj|ooxooo@gg@@@@@@@@@@@@@@@@@@@@@@o@@oooooooooo@</text>
+  <text x="28" y="332.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@ggxa@@@g@@@|jjjjuxwxxo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="341.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@xjug@@g@@@@|jjjxqxxxo@@@@@@@@@@@@@@@@@@@@@@@o@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="351.4" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@|jamwoq@@@@oxjxxooooo@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="361" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@|xjgpo@@@pjjvjxxooooo@@@@@@@@@@@@@@@@@@@@ooo@@@@@@@@@@@@@@@@@@</text>
+  <text x="28" y="370.59999999999997" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@|xaggp@@@xjjjxxxoooo@@@@@@@@@@@@@@@@@@@@ooo@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="380.2" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@goooo@@|jjxxxxx@@@@@@@@@@@@@@@@@@@@@@@oo@@@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="389.8" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@pwxsgo@pxjxxxoxx@@@@@@@@@@@@@@@@@@@@@@@ooo@@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="399.4" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@xjuo@@xxxxxxxxxooo@@@@@@@@@@@@@@@@@@oo@@@@@@@@@o@@@@@@@@@@@@@</text>
+  <text x="28" y="409" fill="#24292f"
+    font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve"
+    font-size="8">@@@@@@@@@@@@@@@@@@@oxq@mxxxxxxxxxxg@@@@@@@@@@@@@@@@@@@xoo@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="444" y="115" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> codewithrajeep@github </tspan><tspan fill="#d0d7de">──────────────────────────────────</tspan></text>
+  <text x="444" y="135" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> 4 years, 3 months, 21 days</tspan></text>
+  <text x="444" y="155" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Location: </tspan><tspan fill="#8c959f">.......................................</tspan><tspan fill="#24292f"> Nepal</tspan></text>
+  <text x="444" y="175" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Languages: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> TypeScript, Rust, Shell</tspan></text>
+  <text x="444" y="215" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Contact </tspan><tspan fill="#d0d7de">────────────────────────────────────────────────</tspan></text>
+  <text x="444" y="235" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Mail: </tspan><tspan fill="#8c959f">...........................</tspan><tspan fill="#24292f"> rajeepgadal@gmail.com</tspan></text>
+  <text x="444" y="255" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">..................</tspan><tspan fill="#24292f"> instagram.com/codewithrajeep</tspan></text>
+  <text x="444" y="295" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> GitHub Stats </tspan><tspan fill="#d0d7de">───────────────────────────────────────────</tspan></text>
+  <text x="444" y="315" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 9</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Stars: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#0550ae"> 11</tspan></text>
+  <text x="444" y="335" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace"
+    xml:space="preserve" font-size="16"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">...........</tspan><tspan fill="#0550ae"> 510</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">..........</tspan><tspan fill="#0550ae"> 26</tspan></text>
 </svg>
