@@ -1,7 +1,7 @@
 <!-- Theme-aware banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_80.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode_80.svg">
   <img alt="Rajeep Gadal - Backend Engineer" src="light_mode.svg">
 </picture>
 
