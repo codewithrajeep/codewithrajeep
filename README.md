@@ -1,3 +1,10 @@
+<!-- Theme-aware banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Rajeep Gadal - Backend Engineer" src="light_mode.svg">
+</picture>
+
 ### Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="50"/>
 
 I'm **Rajeep Gadal**, a Backend Software Engineer from Nepal 🇳🇵  
