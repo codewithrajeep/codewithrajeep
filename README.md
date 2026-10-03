@@ -8,7 +8,7 @@
     <img alt="Rajeep Gadal - Backend Engineer" src="light_mode_80.svg" width="100%">
   </picture>
   
-  <br><br>
+  <br>
   
   <h3>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40"/></h3>
   <p>I'm <strong>Rajeep Gadal</strong>, a Backend Software Engineer from Nepal 🇳🇵</p>
