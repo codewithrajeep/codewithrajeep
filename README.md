@@ -1,28 +1,69 @@
-<!-- Theme-aware banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_80.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode_80.svg">
-  <img alt="Rajeep Gadal - Backend Engineer" src="light_mode.svg">
-</picture>
-
-### Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="50"/>
-
-I'm **Rajeep Gadal**, a Backend Software Engineer from Nepal 🇳🇵  
-I design and build scalable, production-ready systems with a focus on clean architecture and long-term maintainability.
-
 <!-- If you win, you live. If you lose, you die. If you don't fight, you can't win. -->
 
-#### About Me
-- **Currently Building:** Hookman — a production-grade webhook delivery service
-- **Core Stack:** Node.js, TypeScript, Next.js, PostgreSQL, Redis, Docker  
-- **Focus Areas:** System Design, Clean Architecture, Distributed Systems, Production-Ready Backend Systems  
-- **Portfolio:** [rajeepgadal.com.np](https://rajeepgadal.com.np) `or` [codewithrajeep.vercel.app](https://codewithrajeep.vercel.app/)
-- **Contact:** [rajeepgadal@gmail.com](mailto:rajeepgadal@gmail.com)
+<div align="center">
+  <!-- Theme-aware banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode_80.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode_80.svg">
+    <img alt="Rajeep Gadal - Backend Engineer" src="light_mode_80.svg" width="100%">
+  </picture>
+  
+  <br><br>
+  
+  <h3>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40"/></h3>
+  <p>I'm <strong>Rajeep Gadal</strong>, a Backend Software Engineer from Nepal 🇳🇵</p>
+  
+  <a href="https://linkedin.com/in/codewithrajeep">LinkedIn</a> · 
+  <a href="https://rajeepgadal.com.np">Portfolio</a> · 
+  <a href="https://codewithrajeep.vercel.app">Alt Portfolio</a> · 
+  <a href="mailto:rajeepgadal@gmail.com">Email</a> · 
+  <a href="https://instagram.com/codewithrajeep">Instagram</a>
+</div>
 
-#### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithrajeep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithrajeep) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewithrajeep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeepgadal@gmail.com)  
+---
 
-#### Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### About Me
 
-###
+I started out building static frontends, but the moment I connected a database and made a server talk to a website, I was hooked. I realized I didn't just want to build interfaces; I wanted to build the logic and systems behind them.
+
+Today, I'm a Backend Software Engineer from Nepal. I love optimizing queries, studying architecture patterns, and bridging the gap between clean code and production. Lately, I've been diving deep into DevOps—getting comfortable with Linux, Docker, and AWS—because I want to build systems that don't just work in development, but thrive in production.
+
+When I'm not coding, you'll find me deep down an F1 rabbit hole. As a Ferrari fan, I've mastered the art of patience (waiting for that next race win or championship). I'm also a non-fiction reader, currently fascinated by neuroplasticity and how we can rewire our brains through consistency—after all, *"those neurons that fire together, wire together."*
+
+I fail, I learn, I rebuild. Whether it's a complex backend system or personal habits, I love the process of iterating until it works.
+
+---
+
+### Tech Stack
+
+**Languages & Core**  
+`TypeScript` · `Node.js` · `Rust` (learning for desktop apps) · `JavaScript` · `Shell`
+
+**Backend & Databases**  
+`PostgreSQL` · `Redis` · `Prisma` · `BullMQ`
+
+**DevOps & Infrastructure**  
+`Docker` · `Linux (Ubuntu)` · `AWS` (learning) · `GitHub Actions`
+
+**Current Focus**  
+`System Design` · `Production Deployments` · `Clean Architecture`
+
+---
+
+### Featured Projects
+
+#### [Hookman — Webhook Delivery Service](https://github.com/codewithrajeep/hookman-backend)
+*The Problem:* While watching AWS on-call engineers and monitoring status pages, I noticed how critical real-time uptime and event delivery are.
+*The Solution:* Built a production-grade webhook delivery service that pings endpoints, monitors uptime, and ensures reliable event delivery using dead-letter queues.
+*Tech:* TypeScript, Node.js, Redis, BullMQ.
+
+#### [Pulseboard — Real-time Monitoring](https://github.com/codewithrajeep/pulseboard-backend)
+*The Problem:* I wanted to move beyond standard CRUD applications and understand how real-time systems handle data under heavy load.
+*The Solution:* Created a backend monitoring platform featuring Redis rate limiting, distributed locking, and Dockerized deployment via GitHub Actions CI/CD.
+*Tech:* TypeScript, PostgreSQL, Redis, Docker.
+
+---
+
+<div align="center">
+  <i>Let's build something great together.</i>
+</div>
